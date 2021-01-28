@@ -16,7 +16,7 @@ header:
   logo_alt: DIY logo
   has_primary_nav: true
   primary_nav_links:
-    - label: Features
+    - label: Our Services
       url: /features
       style: link
     - label: Our Products
