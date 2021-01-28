@@ -20,7 +20,7 @@ header:
       url: /services
       style: link
     - label: Our Products
-      url: /pricing
+      url: /products
       style: link
     - label: About
       url: /about
