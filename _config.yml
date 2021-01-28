@@ -17,7 +17,7 @@ header:
   has_primary_nav: true
   primary_nav_links:
     - label: Our Services
-      url: /features
+      url: /services
       style: link
     - label: Our Products
       url: /pricing
