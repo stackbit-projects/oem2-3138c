@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: OEM
+description: OEM2
 layout: boxed
 style: classic
 palette: green
