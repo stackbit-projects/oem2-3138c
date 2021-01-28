@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: A "do it yourself" theme for Stackbit
+description: OEM
 layout: boxed
 style: classic
 palette: green
